@@ -1,14 +1,14 @@
 [
   {
     "id": "first-video",
-    "title": "My First Video",
-    "description": "This is an example video. Replace it with your own.",
+    "title": "OUR HUB FIRST VIDEO",
+    "description": "THIS IS OFFICIAL AND FIRST VIDEO UPLOADED ON OUR HUB.",
     "thumbnail": "assets/first-video.jpg",
-    "videoUrl": "https://example.com/my-video.mp4",
-    "duration": "12:04",
+    "videoUrl": "https://github.com/user-attachments/assets/ae608678-ac0e-479a-80fd-b8982539eb5a",
+    "duration": "",
     "type": "video",
-    "tags": ["example"],
-    "date": "2026-01-01"
+    "tags": ["OURHUB"],
+    "date": "2026-11-24"
   },
   {
     "id": "second-video",
