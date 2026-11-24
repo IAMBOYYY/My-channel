@@ -1,0 +1,24 @@
+[
+  {
+    "id": "first-video",
+    "title": "My First Video",
+    "description": "This is an example video. Replace it with your own.",
+    "thumbnail": "assets/first-video.jpg",
+    "videoUrl": "https://example.com/my-video.mp4",
+    "duration": "12:04",
+    "type": "video",
+    "tags": ["example"],
+    "date": "2026-01-01"
+  },
+  {
+    "id": "second-video",
+    "title": "My First Track",
+    "description": "This is an example music track. Replace it with your own.",
+    "thumbnail": "assets/second-video.jpg",
+    "videoUrl": "https://example.com/my-music.mp3",
+    "duration": "3:45",
+    "type": "music",
+    "tags": ["example"],
+    "date": "2026-01-02"
+  }
+]
