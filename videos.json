@@ -15,7 +15,7 @@
     "title": "My First Track",
     "description": "This is an example music track. Replace it with your own.",
     "thumbnail": "assets/second-video.jpg",
-    "videoUrl": "https://example.com/my-music.mp3",
+    "videoUrl": "",
     "duration": "3:45",
     "type": "music",
     "tags": ["example"],
